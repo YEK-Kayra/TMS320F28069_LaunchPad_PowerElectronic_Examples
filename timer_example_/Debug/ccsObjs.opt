@@ -1,0 +1,11 @@
+"./F2806x_CodeStartBranch.obj"
+"./F2806x_DefaultIsr.obj"
+"./F2806x_GlobalVariableDefs.obj"
+"./F2806x_PieCtrl.obj"
+"./F2806x_PieVect.obj"
+"./F2806x_SysCtrl.obj"
+"./F2806x_usDelay.obj"
+"./timer_example.obj"
+"../28069_RAM_lnk.cmd"
+"../F2806x_Headers_nonBIOS.cmd"
+-llibc.a
